@@ -1,4 +1,18 @@
- 
+<img  align='right' style="padding-left: 20px" alt="Dr_Stone" src="https://media.tenor.com/pean6DRCfU0AAAAi/mini-impact-miniimpact.gif"  height='200'/> 
+<h3>About-me❓</h3>
+<div>
+  <div>
+    <span>Passionate about solving problems and a great scholar in different areas of technology.</span> <br><br>
+    <h4>My interests:</h4>
+    <ul>
+      <li>Back-end.</li>
+      <li>QA.</li>
+      <li>Information security.</li>
+    </ul>
+  </div>
+</div>
+
+##
 
 ### Languages
 <div> <br>
