@@ -38,7 +38,12 @@
 <img align='center' alt='Mauricio_Spring' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img  align='center' alt='Mauricio_NuxtJS' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
 <img align='center' alt='Mauricio_Flutter' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
- </div>
+</div>
+
+### Tests
+<div><br>
+ <img  align='center' height='30'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+</div>
  
 ### Utils
 
